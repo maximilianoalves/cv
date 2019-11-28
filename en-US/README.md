@@ -1,7 +1,7 @@
-# Gabriel Neutzling
-**E-mail:** gneutzling@gmail.com<br />
-**Github:** github.com/gneutzling<br />
-**Mobile:** +55 48 991653232<br />
+# Maximiliano Alves da Cruz
+**E-mail:** maximilianodacruz@gmail.com<br />
+**Github:** https://github.com/maximilianoalves<br />
+**Mobile:** +55 51 995484857<br />
 **Location:** Brazil<br />
 
 I have been working with frontend development for the last 10 years, focused in build great products for different type of customers. I am focused in the world of Javascript, including ReactJS and always looking for new tools, modules and ways to improve my skills and sharing knowledge with the whole team. I like environments where we can apply the practical principles of Agile and Lean methodologies in the day-by-day. In addition I believe that we can have better place to work when we have self organizing teams. 
