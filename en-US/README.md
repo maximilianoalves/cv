@@ -4,7 +4,7 @@
 **Mobile:** +55 51 995484857<br />
 **Location:** Brazil<br />
 
-I have been working with frontend development for the last 10 years, focused in build great products for different type of customers. I am focused in the world of Javascript, including ReactJS and always looking for new tools, modules and ways to improve my skills and sharing knowledge with the whole team. I like environments where we can apply the practical principles of Agile and Lean methodologies in the day-by-day. In addition I believe that we can have better place to work when we have self organizing teams. 
+I work with QA focused in automation. I have experience in tests for ecommerces, business rules and shopping process. I have also great experience in test automation with differents languages and frameworks for tests. Currently, I work with tests automation, writing with BDD and developing with the main programming languages on the market in a great company. I have also knowledge and experience in developing programs in Angular, HTML5, CSS3, PHP, Javascript and I am learning ruby with rails framework. 
 
 
 ## Objective
@@ -12,7 +12,7 @@ I am looking for a position as frontend engineer where I can work closely with b
 
 
 ## Education
-Undergraduate degree in Software Analysis and Development
+Graduate degree in Software Analysis and Development
 
 
 ## Professional Experience
