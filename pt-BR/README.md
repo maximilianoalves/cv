@@ -10,4 +10,6 @@ Hoje, atuo como líder de qualidade com foco em automação de testes. Tenho gra
 ## Objetivo
 Meu maior interesse é realmente fazer um produto melhor utilizando automação, engenharia e processo de software, trabalhar com dispositivos móveis e microserviços é meu foco  principal.
 
-
+## Educação
+- Graduado em Análise e desenvolvimento de sistemas
+- Técnico em informática
