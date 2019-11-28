@@ -10,6 +10,25 @@ Hoje, atuo como líder de qualidade com foco em automação de testes. Tenho gra
 ## Objetivo
 Meu maior interesse é realmente fazer um produto melhor utilizando automação, engenharia e processo de software, trabalhar com dispositivos móveis e microserviços é meu foco  principal.
 
+
 ## Educação
 - Graduado em Análise e desenvolvimento de sistemas
 - Técnico em informática
+
+
+## Experiências profissionais.
+
+#### Líder de qualidade - CWI Software (Abril 2017 - Atual)
+**Stack:** Ruby, Java, JS, C#, Selenium, Appium, XCUITest, Protractor, Postman (Newman), RestAssured, HTTparty, VSTS e TFS.
+
+#### Tester - F1 Soluções (Junho 2016 - Abril 2017)
+**Stack:** Codeception
+
+#### SEO Tech Analyst - Cadastra (Fevereiro 2015 - Junho 2016)
+**Stack:**
+
+#### Técnico de informática - Comercial Buffon (Fevereiro 2012 - Fevereiro 2015)
+**Stack:** Windows, Linux, Servidores debian, manutenção de computadores, Banco de dados PostgreSQL.
+
+#### Auxiliar de Expedição - Transportadora Itanorte
+**Stack:** 
