@@ -41,4 +41,12 @@ Trabalhando na área da informática com conhecimento avançado em Linux, conhec
 #### Auxiliar de Expedição - Transportadora Itanorte
 **Stack:** Não se aplica.
 
-//TODO: Adicionar repositórios mais populares, e principais talks apresentados.
+
+## Repositórios mais populares
+#### 1. [Cross testing mobile com Ruby, cucumber e Appium](https://github.com/maximilianoalves/cross-testing-mobile)
+#### 2. [Ecommerce Simple automation](https://github.com/maximilianoalves/ecommerce-simple-automation)
+#### 3. [Appium java Structure](https://github.com/maximilianoalves/appium-java-structure)
+
+## Principais talks
+
+#### 1. [Cross testing mobile com Ruby, cucumber e Appium - Trilha DevTest TDC 2017](https://pt.slideshare.net/MaximilianoAlves/cross-testing-mobile-com-ruby-cucumber-e-appium-81858043)
